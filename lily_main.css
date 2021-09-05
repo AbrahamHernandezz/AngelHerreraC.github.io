@@ -1549,7 +1549,7 @@
   background-color: var(--background-secondary-alt);
 }
 
-:root .app-1q1i1E::before, :root .app-1q1i1E::after, :root .app-2rEoOp::after, :root .app-2rEoOp::before, :root .app-4rEoOp::after, :root .app-4rEoOp::before, :root .app-5rasd::before, :root .layers-3iHuyZ::before, :root .layers-3iHuyZ::after, :root .app-1q1i1E::before, :root .bg-h5JY_x::after, :root .bg-h5JY_x::before {
+:root .app-1q1i1E::before, :root .app-1q1i1E::after, :root .app-2rEoOp::after, :root .app-2rEoOp::before, :root .layers-3iHuyZ::before, :root .layers-3iHuyZ::after, :root .app-1q1i1E::before, :root .bg-h5JY_x::after, :root .bg-h5JY_x::before {
   content: "";
   position: fixed;
   z-index: 1;
@@ -1580,7 +1580,7 @@
   background: url("https://i.imgur.com/skpjGT9.png") no-repeat;
   background-size: 80%;
 }
-:root .app-4rEoOp::before {
+:root .app-2rEoOp::after {
   top: 40px;
   right: 116px;
   width: 288px;
@@ -1588,7 +1588,7 @@
   background: url("https://i.imgur.com/aZI7yW1.png") no-repeat;
   background-size: 50%;
 }
-:root .app-4rEoOp::after {
+:root .app-2rEoOp::after {
   top: 70px;
   right: 50px;
   width: 599px;
@@ -1614,7 +1614,7 @@
   background: url("https://i.imgur.com/IRui4jI.png") no-repeat;
   background-size: 100%;
 }
-:root .app-5rasd::before {
+:root .layers-3iHuyZ::after {
   bottom: 15px;
   right: 70px;
   width: 25px;
@@ -1624,7 +1624,7 @@
 }
 :root .layers-3iHuyZ::after {
   bottom: 15px;
-  right: 116px;
+  right: 90px;
   width: 299px;
   height: 42px;
   background: url("https://i.imgur.com/oXeWAjJ.png") no-repeat;
