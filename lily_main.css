@@ -1573,12 +1573,13 @@
   background-size: 100%;
 }
 :root .app-2rEoOp::before {
-  top: 80px;
-  right: 116px;
+  z-index: 0;
+  top: 40px;
+  right: 80px;
   width: 288px;
   height: 239px;
   background: url("https://i.imgur.com/PRv9qGE.png") no-repeat;
-  background-size: 50%;
+  background-size: 20%;
 }
 :root .app-2rEoOp::after {
   bottom: 20px;
