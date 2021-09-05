@@ -1574,11 +1574,11 @@
 }
 :root .app-2rEoOp::before {
   top: 45px;
-  right: 40px;
+  right: 45px;
   width: 288px;
   height: 239px;
   background: url("https://i.imgur.com/PRv9qGE.png") no-repeat;
-  background-size: 80%;
+  background-size: 100%;
  
 }
 :root .app-2rEoOp::after {
