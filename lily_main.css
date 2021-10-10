@@ -1600,12 +1600,12 @@
   background-size: 100%;
 }
 :root .layers-3iHuyZ::after {
-  bottom: 15px;
-  right: 45px;
+  bottom: 0px;
+  right: 40px;
   width: 233px;
   height: 80px;
   background: url("https://i.imgur.com/KDUKAP3.png") no-repeat;
-  background-size: 80%;
+  background-size: 100%;
 }
 :root .bg-h5JY_x::after {
   top: 45px;
